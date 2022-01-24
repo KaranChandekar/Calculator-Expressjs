@@ -1,0 +1,19 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "This is my first express project.",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaranChandekar/Calculator-Express.git"
+  },
+  "author": "Karan Chandekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaranChandekar/Calculator-Express/issues"
+  },
+  "homepage": "https://github.com/KaranChandekar/Calculator-Express#readme"
+}
