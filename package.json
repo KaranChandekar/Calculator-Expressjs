@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KaranChandekar/Calculator-Express/issues"
   },
-  "homepage": "https://github.com/KaranChandekar/Calculator-Express#readme"
+  "homepage": "https://github.com/KaranChandekar/Calculator-Express#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
